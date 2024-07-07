@@ -1,2 +1,2 @@
 # TCP-server
-A lightweight TCP sever in C 
+A lightweight TCP server in C 
